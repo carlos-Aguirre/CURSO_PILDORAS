@@ -1,0 +1,28 @@
+ git init :inicio
+git config --global user.name: nombre del persona 
+
+git add : nombre del archivo  odjutar todos los atchivos 
+git add  . agrega  todo los archivos 
+git commit -m:  nueva introducion
+git  commit -am ; sirve para agregar y darle un comentario 
+git reset --hard :restaurar el archivo  punto 
+git commit --amend : editar 
+git push  : subir archivos
+git pull :bajar archivos
+git tag :versiones programa 
+git push --tags : subir las tag
+git clone : pones el link para clonar 
+git branch: crear nombre y ver cuantas ramas disponibles 
+git checkout : seleciona de rama 
+git merge: funcionar rama 
+ git branch -d: borrar ramas 
+$ git log --all --oneline: para  todo el historias hasta el borrado
+git reset HEAD / ponemos el hombre : para sacar archivos del area de trabajo 
+
+git checkout :sirve para viajes tiempo 
+git log --all
+crear un documentos nombre para ignorar archivos  : .gitignore 
+crea add file create new file :crear nuevo archivo
+
+pendiente 
+ ver git  stash
